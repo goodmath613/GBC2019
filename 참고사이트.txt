@@ -1,0 +1,18 @@
+지방행정인허가데이터 개방
+
+http://www.localdata.kr/
+
+
+행정표준코드관리시스템 ( 법정동 코드 = EMD_CD )
+
+https://www.code.go.kr/index.do
+
+
+구글 클라우드 플랫폼
+
+https://cloud.google.com
+
+
+공공데이터포털
+
+https://www.data.go.kr
